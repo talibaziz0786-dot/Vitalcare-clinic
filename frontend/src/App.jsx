@@ -9,7 +9,7 @@ import FloatingWhatsApp from "./components/common/FloatingWhatsApp";
 
 import ScrollProgressBar from "./components/common/ScrollProgressBar";
 
-
+    
 
 export default function App() {
   const { theme } =
