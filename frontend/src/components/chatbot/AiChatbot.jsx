@@ -237,7 +237,7 @@ export default function AiChatbot() {
                     scale: 0.9,
                   }}
                   onClick={
-                    handleSendMessage
+                    handleSendMessage 
                   }
                   className="rounded-2xl bg-linear-to-r from-cyan-500 to-blue-500 px-5 py-3 text-sm font-medium text-white"
                 >

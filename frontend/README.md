@@ -73,7 +73,7 @@ src/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/vital-care.git
+git clone https://github.com/talibaziz0786-dot/Vitalcare-clinic.git
 ```
 
 ---
