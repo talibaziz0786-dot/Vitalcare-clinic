@@ -7,7 +7,7 @@ Vital Care is a modern premium healthcare website built using the latest React e
 # ✨ Live Demo     
 
 
-https://vital-care.vercel.app
+https://vitalcare-clinic.vercel.app
 
 ---
 
