@@ -6,9 +6,6 @@ Vital Care is a modern premium healthcare website built using the latest React e
 
 # ✨ Live Demo     
 
-Add your Vercel deployment link here after deployment.
-
-Example:n
 
 https://vital-care.vercel.app
 
@@ -110,11 +107,6 @@ Frontend deployed on:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here later.
-
----
 
 # 👨‍💻 Developer
 
